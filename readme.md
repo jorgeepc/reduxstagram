@@ -1,6 +1,7 @@
-# Learn Redux
+# Reduxstagram
 
 A simple React + Redux implementation.
+Final project for the [Learn Redux Course](https://learnredux.com/)
 
 ## Running
 
